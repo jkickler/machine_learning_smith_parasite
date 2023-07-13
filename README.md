@@ -1,1 +1,2 @@
-# ml_project_smith_parasite
+# Machine Learning Project - The Smith Parasite
+
