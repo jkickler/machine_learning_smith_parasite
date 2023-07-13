@@ -2,7 +2,8 @@
 
 ## Project Description
 - Code created for the Kaggle competition [Smith Parasite](https://www.kaggle.com/competitions/the-smith-parasite/overview/description)
-- Tasks was to create classification model to predict if a patient will suffer from the Smith Disease
+- Task was to create classification model to predict if a patient will suffer from the Smith Disease
+- Notebook includes several Feature Selection techniques and modelling approaches
 
 ## Introduction
 
